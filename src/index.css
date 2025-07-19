@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "gtafont";
+    src: url(../public/Pricedown\ Bl.otf);
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "gtafont";
+    background-color: balck;
+}
